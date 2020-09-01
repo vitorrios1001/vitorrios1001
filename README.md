@@ -17,12 +17,17 @@
 
 <br/>
 
-[![Vitorrios's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorrios1001&show_icons=true)](https://github.com/vitorrios1001)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vitorrios1001&layout=compact)](https://github.com/vitorrios1001/) -->
+
+<p align="center">
+<a href="https://github.com/vitorrios1001"><img alt="GitHub Readme Vitor" src="https://github-readme-stats.vercel.app/api?username=vitorrios1001&show_icons=true" /></a>
+</p>
+
+<!-- [![Vitorrios's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vitorrios1001&show_icons=true)](https://github.com/vitorrios1001) -->
 
 <h3 align="center"> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/vitorluizrios/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Vitor%20Rios%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/vitorluizrios/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-vitorluizrios-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:vr.vitorrios@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-vr.vitorrios@gmail.com-blue?style=flat-square&logo=gmail"></a>
