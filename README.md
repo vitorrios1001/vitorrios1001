@@ -2,10 +2,9 @@
 
 <h2>  About Me </h2>
 
-- 👨🏻‍💻 &nbsp; Exploring new technologies and developing software solutions.
+- 👨🏻‍💻 &nbsp; 6 years exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in Information Systems at the University of Faculdade Sul Americana (FASAM).
 - 💼 &nbsp; Working as a software engineer - FrontEnd at Disent.
-- ✍️ &nbsp; Learning more about testing with Jest, automating processes with Github Actions, TypeScript and Docker.
 
 <br/>
 
