@@ -2,9 +2,9 @@
 
 <h2>  About Me </h2>
 
-- 👨🏻‍💻 &nbsp; 6 years exploring new technologies and developing software solutions.
+- 👨🏻‍💻 &nbsp; 7 years exploring new technologies and developing software solutions.
 - 🎓 &nbsp; Graduated in Information Systems at the University of Faculdade Sul Americana (FASAM).
-- 💼 &nbsp; Working as a software engineer - FrontEnd at Disent.
+- 💼 &nbsp; Working as a software engineer.
 
 <br/>
 
